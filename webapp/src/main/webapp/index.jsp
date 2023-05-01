@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To IntelliQ IT</h1>
+<h1>Welcome To CBA Services Pvt Ltd</h1>
 </body>
 <body style="color:red;">
  <div class="container">
@@ -14,7 +14,7 @@
 <style>
 h1
 {
-  color:blue;
+  color:yellow;
   text-align:center;
 }
 h5
